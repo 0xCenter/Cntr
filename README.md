@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-pink?logo=Kaggle&link=https%3A%2F%2Fwww.kaggle.com%2Fmodels)](https://www.kaggle.com/models)
 </div>
 
-### Reach me:
+### Reach me at:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:thespianwebhost@gmail.com)](mailto:thespianwebhost@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-8a37db?style=flat-square&logo=Github&logoColor=white&color=black&link=https://github.com/Theeespiiiaaan?tab=repositories)](https://github.com/Theeespiiiaaan?tab=repositories)
