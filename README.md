@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Roboticist || Scientist || Engineer</h3>
 <!--🖼️Grogu-->
 <p align="center">
-<img src="https://tenor.com/view/eating-cookies-grogu-the-child-the-mandalorian-eating-a-snack-gif-22926256.gif" height="280" width="498"> 
+<img src="https://tenor.com/view/the-mandalorian-grogu-cookie-eating-cookie-grogu-cookie-gif-20226535.gif" height="280" width="498"> 
 
 
 
