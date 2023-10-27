@@ -43,20 +43,20 @@ Here are some ideas to get you started:
 ```
 
 ### Doing Projects:
-><a href = "">ResearchGate</a><br>
-><a href = "">Academia</a><br>
-><a href = "">TryHackMe</a><br>
-><a href = "">HTB</a><br>
-><a href = "">PicoCTF</a><br>
-><a href = "">Instructables</a><br>
-><a href = "">BugCrowd</a><br>
-><a href = "">LiveOverflow</a><br>
-><a href = "">SkillsForAll</a><br>
+><a href = "https://www.researchgate.net/profile/Mara-Jonna-Montesa">ResearchGate</a><br>
+><a href = "https://ue.academia.edu/MaraJonnaMontesa">Academia</a><br>
+><a href = "https://tryhackme.com/dashboard">TryHackMe</a><br>
+><a href = "https://app.hackthebox.com/machines">HTB</a><br>
+><a href = "https://play.picoctf.org/playlists">PicoCTF</a><br>
+><a href = "https://www.instructables.com/projects">Instructables</a><br>
+><a href = "https://bugcrowd.com/programs">BugCrowd</a><br>
+><a href = "https://liveoverflow.com/">LiveOverflow</a><br>
+><a href = "https://skillsforall.com/">SkillsForAll</a><br>
 ><a href = "">NetAcad</a><br>
 
 ### Reach me:
-><a href = "">Email</a><br>
-><a href = "">Github</a><br>
+><a href = "thespianwebhost@gmail.com">Email</a><br>
+><a href = "https://github.com/Theeespiiiaaan">Github</a><br>
 
 
 
