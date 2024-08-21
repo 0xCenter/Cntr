@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Roboticist || Scientist || Engineer || Network Specialist || Philosopher</h3>
 <!--🖼️Grogu-->
 <p align="center">
-<img src="https://giffiles.alphacoders.com/230/23015.gif" height="209" width="500"> 
+<img src="https://y.yarn.co/1ad8765e-d419-496d-a622-7b791392121b_text.gif" height="188" width="400"> 
 
 
 
