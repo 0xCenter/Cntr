@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Roboticist || Scientist || Engineer || Network Lurker || Philosopher</h3>
 <!--🖼️Grogu-->
 <p align="center">
-<img src="https://y.yarn.co/1ad8765e-d419-496d-a622-7b791392121b_text.gif" height="188" width="400"> 
+<img src="https://tenor.com/view/kaiju-no-8-mina-ashiro-anime-hair-gif-795950136088361231.gif" height="281" width="498"> 
 
 
 
